@@ -5,7 +5,7 @@
 ### with every 3 scroll saved you will get a brand new scroll that you can use to write your own notes ..tbh some scrolls are very unique want to know about the scrolls its yours to find out 
 # Preview - 
  <img width="1847" height="942" alt="image" src="https://github.com/user-attachments/assets/aa30cdd2-3902-43cc-a53e-56e916507b5d" />
- <img width="1843" height="963" alt="image" src="https://github.com/user-attachments/assets/99d6a10d-2f5e-4588-9e4b-aeb86d4ab34e" />
+ <img width="1843" height="963" alt="image" src="https://github.com/user-attachments/assets/99d6a10d-2f5e-4588-9e4b-aeb86d4ab34e" /> 
 
 
 # Tech Stack -
