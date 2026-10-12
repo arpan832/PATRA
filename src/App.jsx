@@ -134,7 +134,7 @@ export default function App() {
         {test && (  // test scroll 
           <div
             className='gap-4 flex lg:flex-row flex-col justify-center p-10 w-150 h-150 bg-cover bg-no-repeat bg-center flex-wrap shrink-0 relative'
-            style={{ backgroundImage: "url('https://png.pngtree.com/png-clipart/20240220/original/pngtree-old-royal-scroll-painting-art-damaged-photo-png-image_14370195.png')" }}
+            style={{ backgroundImage: "url('Scroll.png')" }}
           >
             <button
               className='absolute top-4 right-4 font-bold text-white '
