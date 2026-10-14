@@ -25,7 +25,7 @@
  -  then Locate the Directory ``` cd PATRA ```
  -  then run the file ``` npm run dev ```
 # AI Usage - 
-I used Ai for only the architectural decision everything except that like coding and making a good readme is done by me by manually 
+I used Ai for only the architectural decision everything except that like coding and making a good readme is done by me from scratch 
    
 # Demo Link - https://patra-sable.vercel.app/
     
